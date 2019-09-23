@@ -1,6 +1,6 @@
 <?php
 
-namespace Devdojo\Calculator;
+namespace Dx\Dxc;
 
 use Illuminate\Http\Request;
 use App\Http\Requests;

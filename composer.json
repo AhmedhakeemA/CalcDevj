@@ -1,5 +1,5 @@
 {
-    "name": "devdojo/calculator",
+    "name": "dx/dxc",
     "description": "This demo package will do some calculations",
     "minimum-stability": "dev",
     "require": {}
